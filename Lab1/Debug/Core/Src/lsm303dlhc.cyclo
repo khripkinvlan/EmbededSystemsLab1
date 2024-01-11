@@ -1,0 +1,11 @@
+ lsm303dlhc.c:15:13:Error	1
+ lsm303dlhc.c:19:6:Accel_Ini	2
+ lsm303dlhc.c:39:6:AccInit	1
+ lsm303dlhc.c:47:16:I2C1_ReadData	2
+ lsm303dlhc.c:59:9:Accel_IO_Read	1
+ lsm303dlhc.c:63:9:Accel_ReadID	1
+ lsm303dlhc.c:69:13:I2C1_WriteData	2
+ lsm303dlhc.c:80:6:Accel_IO_Write	1
+ lsm303dlhc.c:84:6:Accel_AccFilterConfig	1
+ lsm303dlhc.c:95:6:Accel_GetXYZ	11
+ lsm303dlhc.c:155:6:Accel_ReadAcc	1

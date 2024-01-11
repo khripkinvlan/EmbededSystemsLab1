@@ -1,0 +1,2 @@
+../Core/Src/mainLogic.c:8:6:AccConstrain	4	static
+../Core/Src/mainLogic.c:21:7:weightCoordinatesCalc	16	static
